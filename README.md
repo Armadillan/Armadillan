@@ -1,6 +1,8 @@
 ## vic
 
 i hac
+use and write lots of foss
+rfid implants in both hands
 
 <!--
 **Armadillan/Armadillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
