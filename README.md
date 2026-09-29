@@ -1,7 +1,9 @@
 ## vic
 
 i hac
+
 use and write lots of foss
+
 rfid implants in both hands
 
 <!--
