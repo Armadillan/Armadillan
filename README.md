@@ -2,9 +2,7 @@
 
 i hac
 
-use and write lots of foss
-
-rfid implants in both hands
+most of my current personal/hobby projects are on my own [Forgejo](https://forgejo.org/) instance: [git.4d11.me](https://git.4d11.me), some are mirrored here
 
 <!--
 **Armadillan/Armadillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
